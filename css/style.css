@@ -1,0 +1,53 @@
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+nav {
+    width: 50%;
+}
+
+#main-header {
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo img {
+    height: auto;
+    width: 100px;
+}
+
+#portfolio {
+    min-height: 800px;
+    background-color: #D4CBB9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-image {
+    display: inline-block;
+    margin: 15px;
+}
+
+.hero-image body {
+    padding: 20px;
+}
+
+.footer-body {
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.footer-nav img {
+    align-items: center;
+    width: 40px;
+    position: absolute;
+
+}
