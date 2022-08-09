@@ -1,3 +1,7 @@
+html {
+    background-color: bisque;
+}
+
 ul {
     display: flex;
     justify-content: space-evenly;
